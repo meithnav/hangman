@@ -1,4 +1,6 @@
 datasets
 models
+.models
 datasets/*
 models/*
+temporary_words.parquet
